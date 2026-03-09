@@ -1,0 +1,4 @@
+# Aero-Climb Zero V3 Dependencies
+numpy==1.24.3
+opencv-python-headless==4.8.0.74
+pigpio==1.78
