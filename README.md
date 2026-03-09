@@ -18,7 +18,7 @@ Standard cleaning robots fail when carrying heavy liquids due to slosh inertia. 
 - **Language:** Python 3.10
 - **Hardware Control:** `pigpio` for DMA-based PWM (5010 ESC control)
 - **Adhesion:** 5010 BLDC Motor + Centrifugal Impeller
-- **Power:** 11.1V (3S) Li-ion High-Discharge Pack
+- **Power:** 6S LiPo (22.2V)
 
 ## 📂 Repository Structure
 ```text
