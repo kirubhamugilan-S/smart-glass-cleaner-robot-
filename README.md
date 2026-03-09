@@ -23,9 +23,6 @@ Standard cleaning robots fail when carrying heavy liquids due to slosh inertia. 
 ## 📂 Repository Structure
 ```text
 ├── src/
-│   ├── vision/          # OpenCV Dirt Detection & Mapping
 │   ├── hardware/        # GPIO, ESC, and Pump control scripts
 │   └── main.py          # Central State Machine
-├── cad/                 # STL files for Honeycomb Baffles & Chassis
-├── docs/                # Technical Presentation & Force Diagrams
 └── requirements.txt     # Python dependencies
