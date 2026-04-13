@@ -12,14 +12,14 @@ Standard cleaning robots fail when carrying heavy liquids due to slosh inertia. 
 - **Slosh Mitigation:** An internal **Honeycomb Baffle Grid** that reduces liquid inertia by **85%**.
 - **Constant-Contact Spine:** A spring-loaded internal frame ensuring tracks never lose contact with irregular glass surfaces.
 - **Mechinacial suction:** The tiny suction cups provide **max 20N**
-- **
+- **Electro static adhesion** The Electro static adhesion seals the air pocket of the mechanilcal suction 
 
 ## 🛠 Tech Stack
 - **Brain:** Raspberry Pi Zero 2W (Linux OS)
 - **Computer Vision:** OpenCV (Stain detection & Path planning)
 - **Language:** Python 3.10
 - **Hardware Control:** `pigpio` for DMA-based PWM (5010 ESC control)
-- **Adhesion:** 5010 BLDC Motor + Centrifugal Impeller
+- **Adhesion:**  Centrifugal Impeller
 - **Power:** 6S LiPo (22.2V)
 
 ## 📂 Repository Structure
