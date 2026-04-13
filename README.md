@@ -8,9 +8,11 @@ An advanced, AI-powered glass cleaning robot designed for high-rise maintenance.
 
 ## 🚀 The Innovation: V3 Engineering
 Standard cleaning robots fail when carrying heavy liquids due to slosh inertia. The V3 architecture introduces:
-- **Active Negative Lift:** The Negative lift gives stability for the cleaning robort by pushing it down, We found that if we used 50%-60% we can move the entire robot without the completly sticking .
+- **Active Negative Lift:** The Negative lift gives stability for the cleaning robort by pushing it down, We found that if we used 50%-60%                           we can move the entire robot without the completly sticking .
 - **Slosh Mitigation:** An internal **Honeycomb Baffle Grid** that reduces liquid inertia by **85%**.
 - **Constant-Contact Spine:** A spring-loaded internal frame ensuring tracks never lose contact with irregular glass surfaces.
+- **Mechinacial suction:** The tiny suction cups provide **max 20N**
+- **
 
 ## 🛠 Tech Stack
 - **Brain:** Raspberry Pi Zero 2W (Linux OS)
